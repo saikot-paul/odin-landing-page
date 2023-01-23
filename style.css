@@ -41,15 +41,13 @@ img {
 }
 
 .nav-bar { 
-    width: 100%;
+    width: 80%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-
-.left, .right { 
-    padding: 30px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 80px;
 }
 
 .main-text { 
